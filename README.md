@@ -197,7 +197,7 @@ Time: 25 minutes (vs 2-3 hours solo coding)
 npm install -g @openai/codex
 
 # Gemini CLI (optional — for vision + research)
-npm install -g @anthropic-ai/gemini-cli
+npm install -g @google/gemini-cli
 ```
 
 ### Configuration
